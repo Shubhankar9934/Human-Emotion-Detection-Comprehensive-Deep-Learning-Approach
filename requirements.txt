@@ -1,0 +1,4 @@
+protobuf==3.20.2
+onnx==1.15.0
+tf2onnx==1.15.1
+wandb==0.16.1
